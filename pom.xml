@@ -18,9 +18,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.mongodb</groupId>-->
-            <artifactId>mongodb-driver-sync</artifactId>-->
-            <version>${mongodb-driver-sync.version}</version>-->
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongodb-driver-sync</artifactId>
+            <version>${mongodb-driver-sync.version}</version>
         </dependency>
 
     </dependencies>
